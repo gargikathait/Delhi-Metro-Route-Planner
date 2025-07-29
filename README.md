@@ -46,16 +46,16 @@ Total Fare: ₹30
 
 ## **How to run locally?**
 
-Clone the repo
+*Clone the repo*
 git clone https://github.com/gargikathait/Delhi-Metro-Route-Planner.git
 
-Navigate to the project directory
+*Navigate to the project directory*
 cd Delhi-Metro-Route-Planner
 
-Compile the C++ program
+*Compile the C++ program*
 g++ -o delhi_metro metroApp.cpp
 
-Run the executable
+*Run the executable*
 ./delhi_metro
 
 

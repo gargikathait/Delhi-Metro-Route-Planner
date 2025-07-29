@@ -16,7 +16,7 @@ This project simulates the **Delhi Metro Route System**, allowing users to plan 
 
 ---
 
-Algorithms Used
+## Algorithms Used
 
 *Dijkstra's Algorithm*
 

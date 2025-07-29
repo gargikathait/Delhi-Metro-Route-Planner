@@ -44,7 +44,7 @@ Total Fare: ₹30
 
 
 
-**How to run locally?**
+## **How to run locally?**
 
 Clone the repo
 git clone https://github.com/gargikathait/Delhi-Metro-Route-Planner.git

@@ -60,8 +60,6 @@ g++ -o delhi_metro metroApp.cpp
 ./delhi_metro
 
 
-*Run the executable*
-./delhi_metro
 
 
 

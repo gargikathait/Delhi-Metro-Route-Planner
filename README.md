@@ -14,7 +14,6 @@ This project simulates the **Delhi Metro Route System**, allowing users to plan 
 **Modular Codebase** – Cleanly separated logic for rendering, data, and styles  
 **C++ CLI App** – Terminal-based version using optimized STL containers
 
----
 
 ## Algorithms Used
 
